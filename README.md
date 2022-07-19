@@ -1,14 +1,5 @@
 # Proyecto final
 
-Proyecto final de capacitaciones
-
-## Tooling 
-
-- GitHub
-- Ansible
-- Jenkins
-- Terraform
-
 ## Descripción
 
 Crear un sistema que a través de un trigger de Jenkins o Cloud Bluid realice lo siguiente dentro del proyecto `crp-dev-iac-testing`. 
@@ -20,6 +11,13 @@ Crear un sistema que a través de un trigger de Jenkins o Cloud Bluid realice lo
 5. Política de encendido / apagado automático para las VMs. 
 6. Un Bucket de Google Cloud Storage, especificaciones libres a elegir. 
 7. Una regla de Firewall para abrir tunel IAP (puertos 3389 y 22). 
+
+## Tooling 
+
+- GitHub
+- Ansible
+- Jenkins
+- Terraform
 
 ## Forma de trabajo
 
