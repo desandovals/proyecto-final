@@ -21,7 +21,7 @@ Crear un sistema que realice lo siguiente dentro del proyecto `crp-dev-iac-testi
 
 ## Forma de trabajo
 
-Se dividirán en equipos para programar por funcionalidad de acuerdo a su área de especialidad. 
+Se dividirán en equipos para programar por funcionalidad de acuerdo a su área de especialidad. Lo anterior lo deberán tomar en cuenta para la forma en que se utilizará el versionador. 
 
 ## Tooling
 
