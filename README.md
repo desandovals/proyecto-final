@@ -12,13 +12,6 @@ Crear un sistema que a través de un trigger de Jenkins o Cloud Bluid realice lo
 6. Un Bucket de Google Cloud Storage, especificaciones libres a elegir. 
 7. Una regla de Firewall para abrir tunel IAP (puertos 3389 y 22). 
 
-## Tooling 
-
-- GitHub
-- Ansible
-- Jenkins
-- Terraform
-
 ## Forma de trabajo
 
 Se dividirán en equipos para programar por funcionalidad de acuerdo a su área de especialidad. Lo anterior lo deberán tomar en cuenta para la forma en que se utilizará el versionador. 
@@ -29,3 +22,7 @@ Deberán asegurarse de tener las herramientas y permisos necesarios sobre el pro
 
 P.ej. Si requieren de un nodo de Jenkins, uno de los equipos deberá asegurarse de desplegarlo y hacerlo disponible a los demás. 
 
+- GitHub
+- Ansible
+- Jenkins
+- Terraform
