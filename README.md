@@ -20,9 +20,10 @@ Se dividirán en equipos para programar por funcionalidad de acuerdo a su área 
 
 Deberán asegurarse de tener las herramientas y permisos necesarios sobre el proyecto de la descripción. 
 
-P.ej. Si requieren de un nodo de Jenkins, uno de los equipos deberá asegurarse de desplegarlo y hacerlo disponible a los demás. 
-
 - GitHub
 - Ansible
 - Jenkins
 - Terraform
+
+P.ej. Si requieren de un nodo de Jenkins, uno de los equipos deberá asegurarse de desplegarlo y hacerlo disponible a los demás. 
+
