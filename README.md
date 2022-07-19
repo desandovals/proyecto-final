@@ -13,13 +13,13 @@ Proyecto final de capacitaciones
 
 Crear un sistema que a través de un trigger de Jenkins o Cloud Bluid realice lo siguiente dentro del proyecto `crp-dev-iac-testing`. 
 
-1. Reservar tres IPs.
-2. Tres VMs con recursos mínimos y network tag de libre elección asociada, una de las cuales tendrá que ser un nodo de Ansible. 
-3. Política de respaldos para las VMs anteriores.
-4. Política de encendido / apagado automático para las VMs. 
-5. Un Bucket de Google Cloud Storage, especificaciones libres a elegir. 
-6. Una regla de Firewall para abrir tunel IAP (puertos 3389 y 22). 
-7. Añadir una SA con un rol de lectura.
+1. Generar Service Accounts para reservar IPs, generar VMs, crear resource policies, crear Buckets, reglas de Firewall y usar Cloud Build. (Una SA por componente).
+2. Reservar tres IPs.
+3. Tres VMs con recursos mínimos y network tag de libre elección asociada, una de las cuales tendrá que ser un nodo de Ansible. 
+4. Política de respaldos para las VMs anteriores.
+5. Política de encendido / apagado automático para las VMs. 
+6. Un Bucket de Google Cloud Storage, especificaciones libres a elegir. 
+7. Una regla de Firewall para abrir tunel IAP (puertos 3389 y 22). 
 
 ## Forma de trabajo
 
